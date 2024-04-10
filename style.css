@@ -1,0 +1,36 @@
+
+header {
+    text-align: center; 
+    padding: 20px;
+}
+ul{
+    list-style: none; 
+}
+
+h1{
+    color: rgb(250, 14, 9);
+    background: rgb(90, 86, 86);
+    padding: 10px;
+    border-radius:70px;
+    margin: 70;
+}
+body{
+    background-color: rgb(161, 161, 39);
+    margin: 5%;
+    background-image: linear-gradient(to left,rgb(251, 78, 78), rgb(251, 251, 78));
+}
+h2{
+    color: blue(18, 3, 3);
+    padding: 15px;
+    border-radius: 25px;
+    margin: 70;
+}
+main{
+    background-color: rgb(250, 245, 245);
+   width: 800px;
+   padding: 10px;
+   box-shadow: 10px 10px 10px rgb(69, 59, 59);
+   margin: auto;
+   border-radius: 20px;
+}
+ 
