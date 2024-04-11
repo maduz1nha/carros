@@ -16,7 +16,7 @@ h1{
 }
 body{
     background-color: rgb(161, 161, 39);
-    margin: 5%;
+    margin: 0;
     background-image: linear-gradient(to left,rgb(251, 78, 78), rgb(251, 251, 78));
 }
 h2{
@@ -25,12 +25,5 @@ h2{
     border-radius: 25px;
     margin: 70;
 }
-main{
-    background-color: rgb(250, 245, 245);
-   width: 800px;
-   padding: 10px;
-   box-shadow: 10px 10px 10px rgb(69, 59, 59);
-   margin: auto;
-   border-radius: 20px;
-}
+
  
